@@ -1,0 +1,12 @@
+{
+  "documents": [
+    { "id": 1, "name": "Passport", "file": "passport.pdf", "category": "Identity", "daysFromNow": 0, "remindBefore": 7 },
+    { "id": 2, "name": "Tuition Fee Receipt", "file": "fee-receipt.pdf", "category": "Education", "daysFromNow": 2, "remindBefore": 3 },
+    { "id": 3, "name": "Scholarship Form", "file": "scholarship.pdf", "category": "Education", "daysFromNow": 5, "remindBefore": 7 },
+    { "id": 4, "name": "Driving Licence", "file": "dl.jpg", "category": "Identity", "daysFromNow": 45, "remindBefore": 14 },
+    { "id": 5, "name": "Health Insurance", "file": "policy.pdf", "category": "Insurance", "daysFromNow": 90, "remindBefore": 30 },
+    { "id": 6, "name": "Bus Pass", "file": "buspass.png", "category": "Transport", "daysFromNow": 12, "remindBefore": 7 },
+    { "id": 7, "name": "Income Tax Return", "file": "itr.pdf", "category": "Finance", "daysFromNow": 20, "remindBefore": 7 },
+    { "id": 8, "name": "Old Exam Permit", "file": "permit.pdf", "category": "Education", "daysFromNow": -3, "remindBefore": 3 }
+  ]
+}
